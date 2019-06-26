@@ -12,7 +12,7 @@ Compile the debug version:
 
 > npm run debug
 
-Now you can can set breakpoints, debug with Chrome extension in VSCode and even public your multi file examples on the Playground: [https://next.plnkr.co/edit/2dkQtKRY30nvoYmF?preview](click to run). This example just shows a version of Pixi.js. See how to public your examples in my example.
+Now you can can set breakpoints, debug with Chrome extension in VSCode and even public your multi file examples on the Playground: [click to run](https://next.plnkr.co/edit/2dkQtKRY30nvoYmF?preview). This example just shows a version of Pixi.js. See how to public your examples in my example.
 
 # How to install packages for a release version
 
