@@ -1,0 +1,22 @@
+{
+    "name": "pixijs-getting-started",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "debug": "tsc -p tsconfig.debug.json",
+        "compile": "tsc -p tsconfig.release.json",
+        "browserify": "browserify public/js/Program.js -o public/js/bundle.js",
+        "minify": "uglifyjs public/js/bundle.js -o public/js/bundle.min.js",
+        "release": "npm run compile && npm run browserify && npm run minify"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "pixi.js": "^5.0.4"
+    },
+    "devDependencies": {
+        "@types/requirejs": "^2.1.31"
+    }
+}

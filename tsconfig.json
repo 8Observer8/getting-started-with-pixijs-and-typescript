@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es5",
+        "sourceMap": true,
+        "outDir": "public/js",
+        "types": [
+            "requirejs", "pixijs"
+        ]
+    }
+}
