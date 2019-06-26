@@ -10,7 +10,7 @@ Install modules: pixi.js and requirejs:
 
 Go to the "node_modules" folder and rename "pixi.js" to "pixijs".
 
-Go to the "pixijs" folder. Open the "pixi.js.d.ts" file. Go to the end of the file. Rename **declare module "pixijs"** to **declare module "pixi.js"**
+Go to the "pixijs" folder. Open the "pixi.js.d.ts" file. Go to the end of the file. Rename **declare module "pixi.js"** to **declare module "pixijs"**
 
 Compile the debug version:
 
