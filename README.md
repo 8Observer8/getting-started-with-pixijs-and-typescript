@@ -22,7 +22,7 @@ Now you can can set breakpoints, debug with Chrome extension in VSCode and even 
 
 Install Browserify and UglifyJS globally:
 
-> npm i browserify uglifyjs -g
+> npm i browserify uglify-js -g
 
 Go to index.html and Program.ts, comment "Debug Version" and uncomment "Release Version"
 
