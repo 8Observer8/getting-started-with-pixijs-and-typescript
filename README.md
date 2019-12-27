@@ -32,4 +32,3 @@ Compile the release version:
 
 If you have any questions, please, ask me: 8observer8@gmail.com
 
-If my example helped you, please, support me [https://www.paypal.me/8observer8](https://www.paypal.me/8observer8). Maybe $0.5 or $1. I need money very much.
