@@ -4,7 +4,6 @@ define(["require", "exports"], function (require, exports) {
     var Output = /** @class */ (function () {
         function Output() {
         }
-        Output.prototype.contructor = function () { };
         Object.defineProperty(Output, "Instance", {
             get: function () {
                 if (this._instance === undefined || this._instance === null) {

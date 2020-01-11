@@ -4,7 +4,7 @@ export class Output
     private _outputElement: HTMLDivElement;
     private static _instance: Output;
 
-    private contructor() { }
+    private constructor() { }
 
     public static get Instance(): Output
     {
