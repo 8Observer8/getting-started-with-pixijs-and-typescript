@@ -29,6 +29,3 @@ Go to index.html and Program.ts, comment "Debug Version" and uncomment "Release 
 Compile the release version:
 
 > npm run release
-
-If you have any questions, please, ask me: 8observer8@gmail.com
-
